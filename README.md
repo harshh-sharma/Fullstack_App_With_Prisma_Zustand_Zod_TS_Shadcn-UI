@@ -1,7 +1,5 @@
 # 🚀Advanced-Task-Management-Platform-MERN-Prisma-Zustand-Stripe-Shadcn
 
-# 🚀 Advanced Task Management Platform (MERN + Prisma + Stripe + Shadcn)
-
 A **production-ready task management platform** with:  
 - 🔐 Secure authentication  
 - 🛡️ Role-based dashboards (Admin/User)  
